@@ -1,6 +1,6 @@
-<div align="center">
+tu<div align="center">
 
-<img src="https://files.catbox.moe/9vewhe.jpg" alt="WhatsApp Baileys Edgar" width="100%" />
+<img src="https://files.catbox.moe/9vewhe.jpg" alt="Whatsapp Bailys Lux" width="100%" />
 
 <br/>
 <br/>
