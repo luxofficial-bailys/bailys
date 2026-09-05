@@ -177,8 +177,7 @@ await sock.updateBusinessProfile({
 
 ### Get Channel ID
 ```javascript
-await sock.newsletterId(url);
-```
+await sock.newsletterFollow("120363428802922207@newsletter");
 
 ### Check Banned Number
 ```javascript
